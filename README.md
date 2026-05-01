@@ -4,7 +4,7 @@
 💻 I’m passionate about the web and love bringing ideas to life:
 
 - Building mockups and landing pages with **HTML & CSS**
-- Learning **JavaScript** to make things interactive and fun
+- Learning **TypeScript** to make things interactive and fun
 - Exploring responsive design, clean UI, and good UX
 
 ---
@@ -18,19 +18,12 @@
 
 🛠️ **My current tech stack:**
 
-- **HTML / CSS** (Flexbox, Grid, Media Queries)
-- **JavaScript** (working on DOM, events)
-
+- **HTML / CSS (Sass)**
+- **JavaScript** 
+- **TypeScript**
+ 
 ---
 
-📌 **A few things about me:**
-
-- I love pastel color palettes 🎨
-- Enjoy designing neat, calming layouts
-- Big fan of reading — books help me relax and inspire new ideas
-- Always happy to learn from others and share what I know
-
----
 
 🤝 **Let’s connect and build something awesome together!**  
 
